@@ -8,5 +8,5 @@ def divide_count(num):
     count = num - (num//3) - (num//5) + (num//15)
     return(count)
 
-num = 20
-print(divide_count(num))
+'''num = 20
+print(divide_count(num))'''
