@@ -20,7 +20,7 @@ def reverse_text(text):
         reverse_text.append(reverse_word(w))
     return ' '.join(reverse_text)
 
-word = "hello"
+'''word = "hello"
 print(reverse_word(word))
 text = "hello I am LJ"
-print(reverse_text(text))
+print(reverse_text(text))'''
